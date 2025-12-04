@@ -1,21 +1,18 @@
-## 🛠️ Languages & Tools  
+## 📊 GitHub Stats
 
-<!-- GitHub-Readme-Stats Top Languages Card -->  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noddy30&layout=compact&theme=dark&cache_seconds=1800)
+![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noddy30&show_icons=true&theme=dark)
 
 ---
 
-## 📈 Github Stats  
+## 🛠️ Top Languages
 
-![Eduan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noddy30&show_icons=true&theme=dark&cache_seconds=1800)
-
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noddy30&layout=compact&theme=dark)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Noddy30&theme=dark)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=Noddy30&theme=dark)
 
 ---
 
