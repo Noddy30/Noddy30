@@ -1,22 +1,4 @@
-## 📊 GitHub Stats
-
-![Stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Noddy30&show_icons=true&theme=dark)
-
----
-
-## 🛠️ Top Languages
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Noddy30&layout=compact&theme=dark)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Noddy30&theme=dark)
-
----
-
-## 🐍 My GitHub Contributions (Snake Game)  
+## 🐍 My GitHub Contributions 
 
 <p align="center">  
   <picture>  
