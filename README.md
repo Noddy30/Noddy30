@@ -1,14 +1,27 @@
-# Hi 👋, I'm Eduan
+## 🛠️ Languages & Tools  
 
-### A Full Stack Developer
+<!-- GitHub-Readme-Stats Top Languages Card -->  
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Noddy30&layout=compact&langs_count=8)](https://github.com/Noddy30)  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Noddy30" alt="Noddy30" /></a> </p>
+---
 
-- 🌱 I'm currently learning **React & React Native**
+## 📈 Github Stats  
 
-- 👨‍💻 All of my projects are available at **[https://test](https://test)**
+[![Eduan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Noddy30&show_icons=true&theme=default)](https://github.com/Noddy30)  
 
-- 📄 Know about my experiences **[https://test](https://test)**
+---
+
+## 🐍 My GitHub Contributions (Snake Game)  
+
+<p align="center">  
+  <picture>  
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Noddy30/Noddy30/output/github-contribution-grid-snake-dark.svg" />  
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Noddy30/Noddy30/output/github-contribution-grid-snake.svg" />  
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Noddy30/Noddy30/output/github-contribution-grid-snake.svg" />  
+  </picture>  
+</p>  
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
